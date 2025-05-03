@@ -1,8 +1,6 @@
-# Udacity-dand
+# Udacity DAND Projects
 
-> My Udacity DAND projects
-
-## 📄 Projects
+## List of Projects
 
 - Analyze Test Results
 - Communicate Data Findings
@@ -10,8 +8,6 @@
 - Weather Trends
 - Wrangle Analyze Data
 
-
-
 <hr>
 
-Abduaziz Ziyodov 🐍
+Abduaziz Ziyodov
